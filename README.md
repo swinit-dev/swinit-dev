@@ -1,13 +1,13 @@
-<img src="./samuelwahbe LOGO.png" width="550" alt="samuelwahbe">
+<img src="./samuelwahbe LOGO.png" width="550" alt="swinit">
 
 👋️ Hello! I'm **samuelwahbe**! I use `He/Him (Male)` pronouns, I'm 13 years old, and I love Linux! And yes, I use AI in my projects, but all the ideas are mine... AI just helps me write the code. I use the font Orbitron, because of that, here is the [OFL.txt](https://github.com/user-attachments/files/33412133/OFL.txt) file.
 
 
-## 👤 Why the name 'samuelwahbe'?
+## 👤 Why the name 'swinit'?
 
-The name **samuelwahbe** came from my Roblox account. My dad and I created my account using my full name, `Samuel Luizari Wahbe`. My dad is part of the `Wahbe` family, and my mom is part of the `Luizari` family. That's why I chose **samuelwahbe** as my username!
+The name **swinit** came from my Roblox account (samuelwahbe). My dad and I created my account using my full name, `Samuel Luizari Wahbe`. My dad is part of the `Wahbe` family, and my mom is part of the `Luizari` family. Buuut, I put swinit (samuelwahbe init). That's why I chose **swinit** as my username!
 
-## 📖️ Who is samuelwahbe?
+## 📖️ Who is swinit?
 
 I started my project development journey some time ago... Back then, I used the name [UbportsBR](https://github.com/ubportsbr-hub). My first project was a website for UbportsBR, which wasn't really useful since an official website already existed... What was I thinking? I have no idea.
 
