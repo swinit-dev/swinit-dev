@@ -2,7 +2,8 @@
 
 > [!WARNING]
 > Don't expect so mutch of my projects or Openware Labs projects;
-> I have problems and... if I stop making projects, you know why.
+> I have problems (with su1c1d3 thinks) and... if I stop making
+> projects, you know why.
 
 👋️ Hello! I'm **swinit**! I use `He/Him (Male)` pronouns, I'm 13 years old, and I love Linux! And yes, I use AI in my projects, but all the ideas are mine... AI just helps me write the code.
 
