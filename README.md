@@ -3,7 +3,7 @@
 > [!WARNING]
 > Don't expect so mutch of my projects or Openware Labs projects;
 > I have problems (with ??? thinks) and... if I stop making
-> projects, you know why.
+> projects, you know why. PLEASE don't try to help.
 
 👋️ Hello! I'm **swinit**! I use `He/Him (Male)` pronouns, I'm 13 years old, and I love Linux! And yes, I use AI in my projects, but all the ideas are mine... AI just helps me write the code.
 
