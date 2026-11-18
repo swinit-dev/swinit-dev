@@ -1,6 +1,6 @@
 <img src="./swinit LOGO.png" width="300" alt="swinit">
 
-> !WARNING
+> [!WARNING]
 > Today I will not be with you guys.
 > I will be finally free...
 > I will be okay.
