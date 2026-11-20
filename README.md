@@ -26,5 +26,6 @@ I use FreeBSD in my Dell Inspiron 14R 5437 and I LOVE IT, really. 😎️
 ## 👑️ I'm owner of...
 
 - Unified Systems Initiative
+- The NIX Foundation
 
 *Have a good day!*
