@@ -17,7 +17,7 @@ After all that, [x_c00lkidd_x](https://www.roblox.com/communities/838149476/samu
 
 Not satisfied with that, I created the actual exploit: `c00lgui Reborn by x_c00lkidd_x`... followed by `007n7's hub`.
 
-Eventually, I decided to change direction and focus on Linux... because why not?
+Eventually, I decided to change direction and focus on operating system development... because why not?
 
 ## ⚙️ My OS
 
