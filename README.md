@@ -28,7 +28,7 @@ I use FreeBSD in my Dell Inspiron 14R 5437 and I LOVE IT, really. 😎️
 > [!WARNING]
 > Sysrchive is an archive of discontinued projects, preserved for historical and archival purposes.
 
-- Unified Systems Initiative
+- Calynd
 - The NIX Foundation
 
-*Have a good day!*
+*Have a good day! ❤️*
