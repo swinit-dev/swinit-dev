@@ -21,7 +21,7 @@ Eventually, I decided to change direction and focus on operating system developm
 
 ## ⚙️ My OS
 
-I use FreeBSD in my Dell Inspiron 14R 5437 and I LOVE IT, really. 😎️
+I use Ubuntu Unity in my Dell Inspiron 14R 5437, but I want to use Lomiri Desktop in future.
 
 ## 👑️ I'm owner of...
 
