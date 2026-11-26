@@ -9,7 +9,7 @@ The name **swinit** came from my Roblox account (samuelwahbe). My dad and I crea
 
 ## 📖️ Who is swinit?
 
-I started my project development journey some time ago... Back then, I used the name [UbportsBR](https://github.com/ubportsbr-hub). My first project was a website for UbportsBR, which wasn't really useful since an official website already existed... What was I thinking? I have no idea.
+I started my project development journey some time ago... Back then, I used the name [UBportsBR](https://github.com/ubportsbr-hub). My first project was a website for UbportsBR, which wasn't really useful since an official website already existed... What was I thinking? I have no idea.
 
 Moving on... I used Ubuntu Touch 16.04 on my phone, the `Redmi Note 8 Ginkgo`. As expected, I developed two `.click` packages for Ubuntu Touch.
 
