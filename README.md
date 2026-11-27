@@ -21,7 +21,7 @@ Eventually, I decided to change direction and focus on operating system developm
 
 ## ⚙️ My OS
 
-I use Ubuntu Unity in my Dell Inspiron 14R 5437, but I want to use Lomiri Desktop in future.
+I use [Debian](https://www.debian.org/) 13 in my [Dell Inspiron 14R 5437](https://www.dell.com/support/product-details/pt-br/product/inspiron-14r-5437/overview) with [Lomiri Desktop](https://lomiri.com/), and I love it.
 
 ## 👑️ I'm owner of...
 
