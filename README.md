@@ -29,6 +29,6 @@ I use [Debian](https://www.debian.org/) 13 in my [Dell Inspiron 14R 5437](https:
 > Sysrchive is an archive of discontinued projects, preserved for historical and archival purposes.
 
 - Calynd
-- The NIX Foundation
+- Lomiri Extras
 
 *Have a good day! ❤️*
