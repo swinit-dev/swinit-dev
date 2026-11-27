@@ -1,4 +1,4 @@
-<img src="./swinit LOGO.png" width="300" alt="swinit">
+<img src="./swinit-logo.svg" width="300" alt="swinit logo">
 
 👋️ Hello! I'm **swinit**! I use `He/Him (Male)` pronouns, I'm 13 years old, and I love Linux! And yes, I use AI in my projects, but all the ideas are mine... AI just helps me write the code.
 
